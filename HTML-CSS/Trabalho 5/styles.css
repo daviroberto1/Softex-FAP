@@ -1,0 +1,14 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: azure;
+    text-align: center;
+    font-size: 1em;
+}
+
+h1,h2 {
+    font-weight: 600;
+}
+
+section {
+    margin-top: 15px;
+}
