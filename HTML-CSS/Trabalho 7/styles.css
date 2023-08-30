@@ -1,0 +1,46 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+body {
+    margin-left: 50px;
+}
+#titulo-principal {
+    margin-top: 20px;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+.titulo-secundario {
+    font-size: 1.3em;
+    margin: 20px 0 10px;
+}
+
+p {
+    font-size: 1.1em;
+    color: #444;
+}
+
+.section-container {
+    margin: 15px 0;
+}
+
+.link {
+    color: blue;
+    text-decoration: none;
+}
+
+img {
+    border-radius: 15px;
+}
+article {
+    margin: 0 100px;
+}
+
+#footer {
+    border-top: 1px solid #ccc;
+    margin-top: 25px;
+}
