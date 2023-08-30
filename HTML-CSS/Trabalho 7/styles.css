@@ -31,6 +31,7 @@ p {
 .link {
     color: blue;
     text-decoration: none;
+    font-size: 1.3em;
 }
 
 img {
